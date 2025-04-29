@@ -786,5 +786,4 @@ select * from profiles;
 -- Verificar las políticas de seguridad
 select * from pg_policies where tablename = 'profiles';
 ```
-#   s u p a b a s e a u t h  
- 
+#
